@@ -2,7 +2,7 @@
 
 **`Technologist & Entrepreneur`**
 
-I'm a Full-Stack AI Engineer with expertise in front-end development (React, TypeScript, JavaScript, HTML, CSS) and back-end technologies (FastAPI, Django, Node.js, PostgreSQL, MySQL). I specialize in building scalable AI-driven applications, leveraging machine learning frameworks (TensorFlow, PyTorch) and NLP models.
+I am a Software Engineer and a rising Junior studying Computer Science, who brings a meticulous and collaborative approach to building high-performance applications in Java, crafting the robust APIs and scalable database architectures that form the backbone of an application. My passion for architecting elegant and efficient systems is matched by my commitment to clear communication and effective teamwork.
 
 <img align="right" alt="Coding" width="300" src="https://www.icegif.com/wp-content/uploads/satisfying-icegif.gif">
 
