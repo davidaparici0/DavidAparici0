@@ -1,6 +1,10 @@
-# David Aparicio
+<div align="center">
 
-**`Backend Engineer · Data Systems · CS '27`**
+<img src="assets/name.svg" alt="David Aparicio" />
+
+<sub><code>Backend Engineer · Data Systems · CS '27</code></sub>
+
+</div>
 
 I'm a backend engineer and a senior studying Computer Science, focused on data intensive systems: APIs, databases, and the infrastructure underneath them. I work in Go and PostgreSQL.
 
@@ -12,7 +16,7 @@ Previously taught Data Structures & Algorithms weekly to 50+ students as a CodeP
 
 ---
 
-### 🧰 Languages and Tools
+`> 🧰 Languages and Tools`
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
@@ -49,7 +53,7 @@ Previously taught Data Structures & Algorithms weekly to 50+ students as a CodeP
 -->
 
 <details>
- <summary><h3>👨‍💻 David's Coding Journey</h3></summary>
+ <summary><h3><code>&gt; 👨‍💻 David's Coding Journey</code></h3></summary>
 
 I started with block based coding in middle school, dragging logic blocks around before I had written a real line of syntax. In high school I picked up HTML and CSS to build my first web pages, then JavaScript to make them do something. Going from blocks to markup to an actual language is where I figured out that I liked making things work, not just making them exist.
 
