@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&pause=1200&color=7F8ADB&center=true&vCenter=true&width=620&height=58&lines=David+Aparicio" alt="David Aparicio" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&pause=1200&color=5C0120&center=true&vCenter=true&width=620&height=58&lines=David+Aparicio" alt="David Aparicio" />
 
 <sub><code>Backend Engineer · Data Systems · CS '27</code></sub>
 
